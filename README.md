@@ -18,7 +18,3 @@ I'm a Computer Science student and dedicated Full-Stack Developer with hands-on 
 
 ---
 
-### GitHub Stats
-
-![Peerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peerapat2256&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peerapat2256&layout=compact&theme=radical)
