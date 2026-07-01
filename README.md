@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Peerapat! 👋
 
-<!--
-**Peerapat2256/Peerapat2256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and dedicated Full-Stack Developer with hands-on experience building web and mobile applications.
 
-Here are some ideas to get you started:
+- Studying Computer Science at Mahasarakham University
+- Open for Full-Stack Developer Internships / Junior roles
+- Contact me at: peerapatapipat@gmail.com
+- GitHub Portfolio: github.com/Peerapat2256
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Skills
+
+* **Languages**: Go, JavaScript, TypeScript, Dart, Python, PHP, Java
+* **Frontend**: Nuxt.js, Angular, Flutter, HTML5, CSS3, Tailwind CSS
+* **Backend & Database**: Node.js (Express), Gin (Go), MySQL, Firebase
+* **Tools**: Git, GitHub, Docker, Postman, Figma
+
+---
+
+### GitHub Stats
+
+![Peerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peerapat2256&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peerapat2256&layout=compact&theme=radical)
