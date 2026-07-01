@@ -9,7 +9,7 @@ I'm a Computer Science student and dedicated Full-Stack Developer with hands-on 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 * **Languages**: Go, JavaScript, TypeScript, Dart, Python, PHP, Java, SQL
 * **Frontend & Mobile**: Nuxt.js, Angular, Flutter, Bootstrap, Tailwind CSS, HTML5, CSS3
 * **State Management**: BLoC, Provider (Flutter State Management)
