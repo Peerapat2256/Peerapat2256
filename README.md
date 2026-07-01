@@ -9,12 +9,14 @@ I'm a Computer Science student and dedicated Full-Stack Developer with hands-on 
 
 ---
 
-### Tech Stack & Skills
-
-* **Languages**: Go, JavaScript, TypeScript, Dart, Python, PHP, Java
-* **Frontend**: Nuxt.js, Angular, Flutter, HTML5, CSS3, Tailwind CSS
-* **Backend & Database**: Node.js (Express), Gin (Go), MySQL, Firebase
-* **Tools**: Git, GitHub, Docker, Postman, Figma
+### 🛠️ Tech Stack & Skills
+* **Languages**: Go, JavaScript, TypeScript, Dart, Python, PHP, Java, SQL
+* **Frontend & Mobile**: Nuxt.js, Angular, Flutter, Bootstrap, Tailwind CSS, HTML5, CSS3
+* **State Management**: BLoC, Provider (Flutter State Management)
+* **Backend & APIs**: Node.js (Express), Gin (Go), GORM (Go ORM), RESTful APIs, WebSockets, JWT Authentication
+* **Databases**: MySQL, Firebase (Cloud Firestore, Cloud Messaging)
+* **AI & Agentic DevOps**: Local LLMs (Large Language Models), OCR (Text Detection), Image Processing (OpenCV)
+* **Tools & IDEs**: Git, GitHub, Docker, Postman, Figma, VS Code, Android Studio
 
 ---
 
